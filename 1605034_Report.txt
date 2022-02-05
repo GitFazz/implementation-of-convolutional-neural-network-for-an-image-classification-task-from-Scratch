@@ -1,0 +1,21 @@
+
+*******************   TOY Data   ********************
+
+Epoch 0: 245 / 500
+Epoch 1: 500 / 500
+Epoch 2: 500 / 500
+Epoch 3: 500 / 500
+Epoch 4: 500 / 500
+
+*******************   MNIST   ********************
+
+
+Epoch: 1 Accuracy:0.9764 Macro F1 Score :0.9762156671031924 Validation Loss: 0.07679753910223774
+Epoch: 2 Accuracy:0.9822 Macro F1 Score :0.9819359286572199 Validation Loss: 0.06432676461096047
+Epoch: 3 Accuracy:0.9824 Macro F1 Score :0.9822268443319409 Validation Loss: 0.06713478781718005
+Epoch: 4 Accuracy:0.986 Macro F1 Score :0.9858933961027162 Validation Loss: 0.05298693742519404
+Epoch: 5 Accuracy:0.9854 Macro F1 Score :0.9852822039582675 Validation Loss: 0.05823090159340047
+
+
+*******************   CIFAR-10   ********************
+
